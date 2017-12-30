@@ -5,6 +5,6 @@
 	<title>Hello World</title>
 </head>
 <body>
-	
+	<h1>Ini adalah contoh text</h1>
 </body>
 </html>
