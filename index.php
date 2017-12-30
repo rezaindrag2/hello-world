@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h3>Hello i'm radit</h3>
+	<h1>Ini adalah contoh text</h1>
 </body>
 </html>
